@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f936027-ec87-4cbb-bd2a-0e78152702df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/kotlin/com/afrodroid/call_your_mother_flutter/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/Screens/contacts_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/Screens/my_home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/Screens/new_contact_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/Screens/settings_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/calls.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/contact.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/contact_list.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/contact_list_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/lib/messages.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_your_mother_flutter/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/call_your_mother_flutter/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/call_your_mother_flutter" />
+  </component>
+  <component name="ProjectId" id="1lPen3jO6Zu3splTsBi8btIIPH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f936027-ec87-4cbb-bd2a-0e78152702df" name="Default Changelist" comment="" />
+      <created>1607503316031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607503316031</updated>
+    </task>
+    <servers />
+  </component>
+</project>
